@@ -5,7 +5,7 @@ source ~/anaconda3/etc/profile.d/conda.sh
 
 conda activate /dropbox/21-22/572/hw10/code/env/
 
-cd /home2/sadafkha/tmp/572/hw10
+cd .
 
 #python main.py --num_epochs 6 --data_dir /dropbox/21-22/572/hw10/code/data/
 
